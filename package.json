@@ -1,0 +1,27 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "pm2": "^5.1.0",
+    "vue-cool-lightbox": "^2.7.4",
+    "vue-infinite-loading": "^2.4.5",
+    "vue-meta": "^2.4.0",
+    "vue-social-sharing": "^3.0.8",
+    "vue2-flip-countdown": "^0.11.1",
+    "vuetify": "^2.5.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.1"
+  }
+}
